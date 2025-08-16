@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./Imagens/Logo-lorien.png" alt="Logo Lorien" width="150"/>
-</p>
 
 <h1 align="center">💌 Email Lorien</h1>
 
