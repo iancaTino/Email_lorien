@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/iancaTino/Email_lorien"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-  <a href="https://lorien-three.vercel.app/"><img src="https://img.shields.io/badge/Visualizar-FF69B4?style=for-the-badge" alt="Visualizar Badge"/></a>
+  <a href="https://email-lorien.vercel.app/"><img src="https://img.shields.io/badge/Visualizar-FF69B4?style=for-the-badge" alt="Visualizar Badge"/></a>
 </p>
 
 ---
@@ -28,9 +28,8 @@
 - Layout clean e moderno, perfeito para campanhas de marketing 🌸  
 
 ---
+## 🚀 Teste o projeto
 
-## 🚀 Como usar
+- **Projeto online:** [Visualizar Email Lorien](https://lorien-three.vercel.app/) 🌐  
+- **Inspiração do email:** [Really Good Emails](https://reallygoodemails.com/) 🎨
 
-1. Clone o repositório:  
-```bash
-git clone https://github.com/iancaTino/Email_lorien.git
