@@ -30,6 +30,6 @@
 ---
 ## 🚀 Teste o projeto
 
-- **Projeto online:** [Visualizar Email Lorien](https://lorien-three.vercel.app/) 🌐  
-- **Inspiração do email:** [Really Good Emails](https://reallygoodemails.com/) 🎨
+- **Inspiração do email:** [Lorien Three](https://lorien-three.vercel.app/) 🌟  
+- **Projeto do email:** [Email Lorien](https://email-lorien.vercel.app/) 💌
 
