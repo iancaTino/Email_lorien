@@ -1,5 +1,4 @@
-
-<h1 align="center">💌 Email Lorien</h1>
+<h1 align="center">💌Email Lorien</h1>
 
 <p align="center">
   Um projeto de <strong>email HTML</strong> feito com carinho para a loja <strong>Lorien</strong>, com design fofo, limpo e funcional ✨
